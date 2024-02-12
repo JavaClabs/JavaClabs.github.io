@@ -44,7 +44,7 @@ public class inheritance{
         Officer officer = new Officer();
         Manager manager = new Manager();
         
-        officer.name = "Asna";
+        officer.name = "Alan";
         officer.age = 12;
         officer.phoneNumber = "859475345";
         officer.address = "Abc";
